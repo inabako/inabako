@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inabako&hide=contribs,prs)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
 <!--
 **inabako/inabako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
