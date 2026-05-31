@@ -1,18 +1,44 @@
-## Hi there 👋
+# Hi there 👋
+
+どうも、Inabakoです。
+主にバックエンドを担当しています。
+
+バックエンド開発を中心に、運用しやすく復旧しやすいシステム設計を意識しています。
+
+経験してきた技術や学習中の技術を活用し、個人開発や技術検証を行っています。
+
+個人ではWebサービスの開発（フロントエンド・バックエンド）に加え、ロボティクスや自動化に関する技術検証も行っています。
+
+得意な言語、経験してる技術スタックは下記です。
+
+## Backend
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,bash)](https://skillicons.dev)
+
+## Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,jquery)](https://skillicons.dev)
+
+## 経験したミドルウェア
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,jenkins,githubactions)](https://skillicons.dev)
+
+## 勉強中
+
+[![My Skills](https://skillicons.dev/icons?i=go,react,next,redis,aws)](https://skillicons.dev)
+
+## 趣味
+
+[![My Skills](https://skillicons.dev/icons?i=python,qt,opencv)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)
-<!--
-**inabako/inabako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 関心のある技術領域
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- マイクロサービスアーキテクチャ
+- システム設計
+- 責務分離と境界設計
+- 可観測性（Observability）
+- 障害解析
+- 自動復旧設計
+- IaC（Infrastructure as Code）
+- AIワークフロー設計
