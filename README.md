@@ -24,21 +24,27 @@
 
 得意な言語、経験してる技術スタックは下記です。
 
-## Backend
+## 経験
+
+### Backend
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,bash)](https://skillicons.dev)
 
-## Frontend
+### Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,jquery)](https://skillicons.dev)
 
-## 経験したミドルウェア
+### ミドルウェア
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,jenkins,githubactions,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,jenkins,githubactions)](https://skillicons.dev)
 
-## ソース管理
+### ソース管理
 
-[![My Skills](https://skillicons.dev/icons?i=gitlab,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github)](https://skillicons.dev)
+
+### インフラ
+
+[![My Skills](https://skillicons.dev/icons?i=linux,redhat,aws,kubernetes,docker)](https://skillicons.dev)
 
 ## 勉強中
 
