@@ -55,3 +55,4 @@
 - 自動復旧設計
 - IaC（Infrastructure as Code）
 - AIワークフロー設計
+- メタ設計 / Engineering System Design(課題を再発防止可能な仕組み・運用・境界へ落とし込む設計)
