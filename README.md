@@ -34,11 +34,11 @@
 
 ## 経験したミドルウェア
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,jenkins,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,jenkins,githubactions,kubernetes)](https://skillicons.dev)
 
 ## 勉強中
 
-[![My Skills](https://skillicons.dev/icons?i=go,react,next,redis,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,react,next,redis,aws,kubernetes)](https://skillicons.dev)
 
 ## 趣味
 
